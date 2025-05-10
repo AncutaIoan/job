@@ -47,8 +47,6 @@ I also make lists of key people and their skills, traits, and behaviors. The mor
 
 Over time, I aim to collaborate with these people on small, well-scoped projects. If they work with me, ideally they’ll vouch for me later. This opens up new opportunities to work on the most valuable and interesting problems in the company.
 
-Sometimes it’s as simple as a shared interest. At one job, I uploaded a custom emoji from a wizard’s favorite anime. Months later, using it in a chat led to conversations, which led to collaboration—and eventually, friendship and major joint initiatives.
-
 Relationships matter on the business side too—from PMs to SVPs. But these are built through authenticity and can't be templated. This part is left as an exercise to the reader.
 
 ## Outcomes
